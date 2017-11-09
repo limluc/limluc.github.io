@@ -3,10 +3,10 @@
 Personal Page (Lucky Lim) 
 
 Presence:
-http://limluc.github.io/
-http://stackoverflow.com/users/7675608/lucky-lim
-https://www.hackerrank.com/limluc
-https://www.linkedin.com/in/luckylim/
+* http://limluc.github.io/
+* http://stackoverflow.com/users/7675608/lucky-lim
+* https://www.hackerrank.com/limluc
+* https://www.linkedin.com/in/luckylim/
 
 # Todo contents:
 
