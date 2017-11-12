@@ -1,31 +1,46 @@
-# limluc.github.io
+# Lucky Lim
 
-Personal Page (Lucky Lim) 
-
-Presence:
+My Presence:
 * http://limluc.github.io/
 * http://stackoverflow.com/users/7675608/lucky-lim
 * https://www.hackerrank.com/limluc
 * https://www.linkedin.com/in/luckylim/
 
-# Todo contents:
+### About me:
+* Mid-level back-end Software Developer in Finance Sector (3 years experiences)
+* Programing stye: Clean, Highly Testable Code
+* Enjoy managing and solving problems
+* **Currently offering mentorship and guidance for Univesity students to Software Craftmanship worlds.**
 
-Developer profile:
-Back end developer with domain expertise in Equity Derivatives.
+### Community Involvements/Interests:
+* Fintech
+* Blockchain
+* Software Craftmenship
 
-Language experience:
-Java 7 & 8 (Active)
-* Working with Spring, GWT, Data Grid, Gemfire, Maven
-Scala (Some experience)
-Clojure (Some experience)
-Python (Some experience)
+### Language Experience:
+* Java 7 & 8 (Active Professionaly)
+ * Working with Spring, GWT, Data Grid, Gemfire, Maven, Cucumber
+* Scala (Some experience)
+* Clojure (Some experience)
+* Python (Some experience)
 
-Future plan:
-AngularJS
-App Development
+### Certification:
+* Agile Developer
 
-Hobby Projects:
+### Future plan:
+* AngularJS / MEAN Stack
+* App Development
+
+### Side Projects:
+
+**Github**
 * Tutorial/General
-** Mac Developer Setup
+ * Mac Developer Setup
 * Project 
-** Version Control 2 Wool Tool Reconcilliation
+ * Version Control 2 Work Tool Reconcilliation
+* Tutorial
+ * Hackerank
+ * Code
+ * Mini Interviews
+
+**App Development**
