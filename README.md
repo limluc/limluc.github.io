@@ -15,6 +15,7 @@
 * Fintech
 * Blockchain
 * Software Craftmenship
+* Enterpreneurship
 
 ### Language Experience:
 * Java 7 & 8 (Active Professionaly)
@@ -42,6 +43,6 @@
   * Code
   * Mini Interviews
 
-**App Development**
+## App Development
 * InviteMe - Event and Calendar Integration for Messaging Application (TBD)
 * CoachMe - Connecting Students to (Young) Professional for CV Review, Mentorship, and Applications (TBD)
