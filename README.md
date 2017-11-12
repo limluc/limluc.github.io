@@ -1,6 +1,5 @@
 # Lucky Lim
 
-My Presence:
 * http://limluc.github.io/
 * http://stackoverflow.com/users/7675608/lucky-lim
 * https://www.hackerrank.com/limluc
@@ -44,7 +43,5 @@ My Presence:
   * Mini Interviews
 
 **App Development**
-* InviteMe
-  Event and Calendar Integration for Messaging Application
-* CoachMe
-  Connecting Students to (Young) Professional for CV Review, Mentorship, and Applications
+* InviteMe - Event and Calendar Integration for Messaging Application (TBD)
+* CoachMe - Connecting Students to (Young) Professional for CV Review, Mentorship, and Applications (TBD)
