@@ -19,7 +19,7 @@ My Presence:
 
 ### Language Experience:
 * Java 7 & 8 (Active Professionaly)
- * Working with Spring, GWT, Data Grid, Gemfire, Maven, Cucumber
+  * Working with Spring, GWT, Data Grid, Gemfire, Maven, Cucumber
 * Scala (Some experience)
 * Clojure (Some experience)
 * Python (Some experience)
@@ -35,12 +35,16 @@ My Presence:
 
 **Github**
 * Tutorial/General
- * Mac Developer Setup
+  * Mac Developer Setup
 * Project 
- * Version Control 2 Work Tool Reconcilliation
+  * Version Control 2 Work Tool Reconcilliation
 * Tutorial
- * Hackerank
- * Code
- * Mini Interviews
+  * Hackerank
+  * Code
+  * Mini Interviews
 
 **App Development**
+* InviteMe
+  Event and Calendar Integration for Messaging Application
+* CoachMe
+  Connecting Students to (Young) Professional for CV Review, Mentorship, and Applications
