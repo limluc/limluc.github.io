@@ -13,7 +13,7 @@
 
 ### Community Involvements/Interests:
 * Fintech
-* Blockchain
+* Machine Learning
 * Software Craftmenship
 * Enterpreneurship
 
@@ -23,6 +23,7 @@
 * Scala (Some experience)
 * Clojure (Some experience)
 * Python (Some experience)
+* Elastic Search / Kibana / Logstash
 
 ### Certification:
 * Agile Developer
