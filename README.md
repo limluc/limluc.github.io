@@ -30,7 +30,13 @@
 
 ### Future plan:
 * AngularJS / MEAN Stack
+* Javascript d3
 * App Development
+* Java Specialist
+ * Reactive Java
+ * Generic Java
+ * Advanced Scala
+* ElasticSearch Specialist
 
 ### Side Projects:
 
@@ -39,6 +45,8 @@
   * Mac Developer Setup
 * Project 
   * Version Control 2 Work Tool Reconcilliation
+  * Jayway Json Implementation in Java/Scala
+  * TxtDiff Implementation in Java/Scala Service
 * Tutorial
   * Hackerank
   * Code
