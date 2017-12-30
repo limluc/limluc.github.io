@@ -9,49 +9,86 @@
 * Mid-level back-end Software Developer in Finance Sector (3 years experiences)
 * Programing stye: Clean, Highly Testable Code
 * Enjoy managing and solving problems
-* **Currently offering mentorship and guidance for Univesity students to Software Craftmanship worlds.**
+
+**Currently offering mentorship and guidance for Univesity students to Software Craftsmanship worlds.**
 
 ### Community Involvements/Interests:
-* Fintech
+* FinTech
 * Machine Learning
-* Software Craftmenship
+* Software Craftsmanship
 * Enterpreneurship
 
 ### Language Experience:
 * Java 7 & 8 (Active Professionaly)
-  * Working with Spring, GWT, Data Grid, Gemfire, Maven, Cucumber
+  * Including: Spring, GWT, Gemfire, Maven, Cucumber
 * Scala (Some experience)
+  *
 * Clojure (Some experience)
+  *
 * Python (Some experience)
-* Elastic Search / Kibana / Logstash
+  *
 
 ### Certification:
 * Agile Developer
 
-### Future plan:
-* AngularJS / MEAN Stack
-* Javascript d3
-* App Development
-* Java Specialist
- * Reactive Java
- * Generic Java
- * Advanced Scala
-* ElasticSearch Specialist
+### Recommended Reading
 
-### Side Projects:
+#### Software Development
 
-**Github**
 * Tutorial/General
   * Mac Developer Setup
+        
+        https://github.com/limluc/general.mac-developer-setup
+
+#### Language- Specific
+
+
+* [Beginner Guide to Java](https://github.com/limluc/exercise.java), including
+  * Hackerank, Codility
+  * Reading List
+  * Mini Interviews Coding Questions
+
+* [Transition to Scala](https://github.com/limluc/exercise.scala), including
+  * Hackerank
+  * Reading List, Useful Note
+  
+* [Journey to Python](https://github.com/limluc/exercise.python), including
+  * Hackerank
+  * Reading List, Useful Note
+  
+* Others _TBD_
+
+### Other Side Projects
+
+**Github**
+
 * Project 
   * Version Control 2 Work Tool Reconcilliation
   * Jayway Json Implementation in Java/Scala
   * TxtDiff Implementation in Java/Scala Service
-* Tutorial
-  * Hackerank
-  * Code
-  * Mini Interviews
+  * Json to Table Converter
 
-## App Development
-* InviteMe - Event and Calendar Integration for Messaging Application (TBD)
-* CoachMe - Connecting Students to (Young) Professional for CV Review, Mentorship, and Applications (TBD)
+### App Development
+* InviteMe
+> Event and Calendar Integration for Messaging Application (TBD)
+* CoachMe
+> Connecting Students to (Young) Professional for CV Review, Mentorship, and Applications (TBD)
+
+
+## Future Coverage:
+
+### Stack
+* Web Developmenet
+    * AngularJS / MEAN Stack
+    * Javascript d3
+* Mobile App Development
+    * Swift
+
+### Niche Area
+* Reactive Java
+* Generic Java
+* MultiThreading
+* Advanced Scala
+* ElasticSearch
+* Spark and Cassandra
+* Kafka
