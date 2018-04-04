@@ -58,7 +58,7 @@ JUN  2012 - SEP  2013
 2009 - 2014
 8x8 Pixel Gaming Console, Family Tree Software in Java, Autonomous Line-Following Robot, Sensor-node Server Design for Wireless Soil Moisture Sensor, Network Design for Smart Sensors for Rice Farming.
 
-### Taylor’s University College, Malaysia — Pre-Engineering CIE ‘A’ Level 4A1a 
+##### Taylor’s University College, Malaysia — Pre-Engineering CIE ‘A’ Level 4A1a 
 2008 - 2009
 Mathematics (A), Physics (A), Chemistry (A), Further Mathematics (A), Thinking Skills (a)
 
