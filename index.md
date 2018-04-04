@@ -1,16 +1,6 @@
 # Agile Software Developer  
-Strong Analytical Individual, Clean Code Practitioner, and Passionate Technologist
 
-## Skills
-##### Professionally
-Java 7/8, Spring, Gemfire, ELK,  Cucumber, SQL, Git/SVN, Maven, Linux
-##### Some Experience
-Scala, Clojure, Groovy, Python, PHP, VBA
-
-## Projects
-See [limluc.io](https://github.com/limluc/limluc.github.io/blob/master/README.md)
-
-## Focus
+## FOCUS
 ##### Clean & Test-Driven Development
 Deliver high software standard across multiple projects  in agile environment and distributed team. 
 ##### Value-Driven Deliverables
