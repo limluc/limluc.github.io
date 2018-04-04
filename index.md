@@ -1,7 +1,39 @@
 # Agile Software Developer  
 Strong Analytical Individual, Clean Code Practitioner, and Passionate Technologist
   
-# WORK EXPERIENCE
+
+## Projects
+
+##### Mini-Project 
+  * Version Control 2 Work Tool Reconcilliation
+  * Jayway Json Implementation in Java/Scala
+  * TxtDiff Implementation in Java/Scala Service
+  * Json to Table Converter
+
+##### More:
+https://github.com/limluc/limluc.github.io/blob/master/README.md
+
+
+## Focus
+
+##### Clean & Test-Driven Development
+Deliver high software standard across multiple projects  in agile environment and distributed team. 
+##### Value-Driven Deliverables
+Act as product owner/sprint lead and working with business in prioritising and delivering high value items.
+##### DevOps
+Challenge processes for improvement  and simplification in Software Development Life Cycle, i.e. Continuous Integration, Continuous Development. Actively involved in Value Streaming workshop with business in identifying waste and values.
+##### Testing Automation
+Challenge manual process and working  with QA team in developing, training, driving adoption of QA Automation.
+##### Enabling via Automation
+Minimize repetition by rolling out  self-service, i.e. generic reporting tool, SVN to JIRA reconciliation tool, text comparison tool, etc
+##### Finance Domain
+Primary domain in Equity Derivatives on Exotic products with complex features and model, application stack complexity and demanding computation needs.
+##### Mentorship 
+Training future/junior developers in the best code practices, design thinking, and sharing ideas.
+##### Volunteering
+Bridge Academy Mentoring in Chemistry & Mathematics, Peer Assisted Study Lead in School of EEE (UoM), Student Rep in Staff Student Liaison Committee (UoM)
+
+## WORK EXPERIENCE
 ### UBS Investment Bank, London — Java Developer
 
 MAY 2016 - PRESENT
@@ -44,7 +76,7 @@ Group Technology Commercial Services (GTCS)
 * IT Business Analyst - Collaborate with stakeholders in capturing business requirements, proposing changes, documenting, and planning out IT deliveries.
 * Project/Process Analyst - Develop Blueprint for Asset Monetization and Commercialisation and rolling them out as IT-wide Artifact.
 
-# EDUCATION
+## EDUCATION
 ### The University of Manchester, UK — M.Eng (Hons) Mechatronics Engineering WIE (1st Class)
 
 2009 - 2014
