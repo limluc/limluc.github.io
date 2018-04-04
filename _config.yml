@@ -1,7 +1,6 @@
 title: Lucky Lim
 description: 
   <b>About me</b><br/>
-  Agile Sofware Developer<br/>
   Strong Analytical Individual, Clean Code Practitioner, and Passionate Technologist<br/><br/>
   <b>Skills</b><br/>
   <b>Professionally</b><br/>
@@ -12,12 +11,12 @@ description:
   Read <a href="https://github.com/limluc/limluc.github.io/blob/master/README.md">here</a><br/><br/>
   <b>Contact</b><br/>
   London, United Kingdom<br/>
-  Mobile (44) 793 879 7117<br/>
+  Mobile <a href="(44)7938797117">(44) 793 879 7117</a><br/>
   Email <a href="mailto:lucky.lim@me.com">lucky.lim@me.com</a><br/>
-  <a href="http://limluc.github.io">GitHub/luckylim</a><br/>
-  <a href="http://stackoverflow.com/users/7675608/lucky-lim">StackOverflow/luckylim</a><br/>
-  <a href="https://www.hackerrank.com/limluc">HackerRank/luckylim</a><br/>
-  <a href="https://www.linkedin.com/in/luckylim">LinkedIn/luckylim</a><br/><br/>
+  GitHub <a href="http://limluc.github.io">luckylim</a><br/>
+  StackOverflow <a href="http://stackoverflow.com/users/7675608/lucky-lim">luckylim</a><br/>
+  HackerRank <a href="https://www.hackerrank.com/limluc">luckylim</a><br/>
+  LinkedIn <a href="https://www.linkedin.com/in/luckylim">luckylim</a><br/><br/>
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-minimal
