@@ -29,8 +29,14 @@
 
 ## Projects
 
-### App Development
+#### App Development
 * InviteMe
 > Event and Calendar Integration for Messaging Application (TBD)
 * CoachMe
 > Connecting Students to (Young) Professional for CV Review, Mentorship, and Applications (TBD)
+
+#### Mini-Project
+* Version Control 2 Work Tool Reconcilliation
+* Jayway Json Implementation in Java/Scala
+* TxtDiff Implementation in Java/Scala Service
+* Json to Table Converter
