@@ -1,3 +1,6 @@
+# Agile Software Developer  
+Strong Analytical Individual, Clean Code Practitioner, and Passionate Technologist
+  
 # WORK EXPERIENCE
 ### UBS Investment Bank, London — Java Developer
 
