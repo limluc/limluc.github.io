@@ -1,7 +1,9 @@
 title: Lucky Lim
-description: Software Developer
+description: 
+  Agile Software Developer (4 years experience)
+  Strong Analytical Individual, Clean Code Practitioner, and Passionate Technologist
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 
 gems:
