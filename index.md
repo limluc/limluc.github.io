@@ -1,6 +1,6 @@
 # Agile Software Developer  
 
-## FOCUS
+## VALUES
 ##### Clean & Test-Driven Development
 Deliver high software standard across multiple projects  in agile environment and distributed team. 
 ##### Value-Driven Deliverables
